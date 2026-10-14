@@ -1,4 +1,6 @@
 name: Build U-Boot for IPQ Devices
+permissions:
+  contents: write
 
 on:
   push:
